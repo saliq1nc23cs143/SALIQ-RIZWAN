@@ -1,2 +1,2 @@
 # SALIQ-RIZWAN
-this is my first epository 
+This is my first repository 
